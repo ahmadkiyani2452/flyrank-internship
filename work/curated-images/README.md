@@ -29,3 +29,8 @@
 ## Rejection Note
 
 I generated several AI hero background images. One version was rejected because it looked too futuristic and distracted from my actual projects. I selected a cleaner design that keeps the focus on my work and matches the overall visual identity.
+
+
+## Real vs AI
+
+I used real photos and screenshots for my projects and profile because they provide authentic evidence of my work. AI-generated images were used only for decorative elements such as the hero background and simple technology icons.
