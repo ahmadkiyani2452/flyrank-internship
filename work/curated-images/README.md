@@ -24,3 +24,8 @@
 | GitHub Screenshot | Real | It shows my real repositories and coding work. |
 | AI / Robotics Hero Background | AI Generated | Used only as a decorative hero image with a consistent style. |
 | Technology Icons | AI Generated | Used for visual consistency across the portfolio. |
+
+
+## Rejection Note
+
+I generated several AI hero background images. One version was rejected because it looked too futuristic and distracted from my actual projects. I selected a cleaner design that keeps the focus on my work and matches the overall visual identity.
